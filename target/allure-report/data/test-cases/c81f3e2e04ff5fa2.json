@@ -1,0 +1,56 @@
+{
+  "uid" : "c81f3e2e04ff5fa2",
+  "name" : "Переход к разделу: «Булки»",
+  "fullName" : "ConstructorTabsTest.openBunsTab",
+  "historyId" : "fbe1c97cb6d444af8d648bb014572f01",
+  "time" : {
+    "start" : 1667579606125,
+    "stop" : 1667579606728,
+    "duration" : 603
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTabsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "openBunsTab"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTabsTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-k.krashenitsa"
+  }, {
+    "name" : "thread",
+    "value" : "31845@macbook-k.krashenitsa.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c81f3e2e04ff5fa2.json",
+  "parameterValues" : [ ]
+}
