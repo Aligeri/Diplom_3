@@ -1,0 +1,56 @@
+{
+  "uid" : "8e7ff22e2275b802",
+  "name" : "Переход к разделу: «Начинки»",
+  "fullName" : "ConstructorTabsTest.openFillingsTab",
+  "historyId" : "b6a40cbb97d888c27d21a23a2ed99bd",
+  "time" : {
+    "start" : 1667579605547,
+    "stop" : 1667579606122,
+    "duration" : 575
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTabsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "openFillingsTab"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTabsTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-k.krashenitsa"
+  }, {
+    "name" : "thread",
+    "value" : "31845@macbook-k.krashenitsa.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e7ff22e2275b802.json",
+  "parameterValues" : [ ]
+}

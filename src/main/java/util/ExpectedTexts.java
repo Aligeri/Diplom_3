@@ -10,4 +10,5 @@ public class ExpectedTexts {
     public static final String EXIT = "Выход";
     public static final String CREATE_BURGER = "Соберите бургер";
     public static final String REGISTRATION = "Регистрация";
+    public static final String DELETE_USER_ERROR = "Такого пользователя не существует";
 }

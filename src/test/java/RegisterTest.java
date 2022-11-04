@@ -18,6 +18,7 @@ import static generators.UserDataGenerator.createRandomUserWithIncorrectPassword
 import static org.junit.Assert.assertEquals;
 import static util.Addresses.LOGIN_PAGE_URL;
 import static util.Addresses.MAIN_PAGE_URL;
+import static util.ExpectedTexts.DELETE_USER_ERROR;
 import static util.ExpectedTexts.REGISTRATION_INCORRECT_PASSWORD;
 
 public class RegisterTest {
@@ -43,7 +44,7 @@ public class RegisterTest {
         try {
             userClient.deleteUser(user);
         } catch (IllegalArgumentException e) {
-            System.out.println("Такого пользователя не существует");
+            System.out.println(DELETE_USER_ERROR);
         }
     }
     @Test
@@ -73,7 +74,7 @@ public class RegisterTest {
         try {
             userClient.deleteUser(userWithInvalidPassword);
         } catch (IllegalArgumentException e) {
-            System.out.println("Такого пользователя не существует");
+            System.out.println(DELETE_USER_ERROR);
         }
     }
 }

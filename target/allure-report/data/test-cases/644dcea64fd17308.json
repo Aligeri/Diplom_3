@@ -1,0 +1,56 @@
+{
+  "uid" : "644dcea64fd17308",
+  "name" : "Вход через кнопку «Личный кабинет»",
+  "fullName" : "LoginTest.loginByMainPageWithHeaderButton",
+  "historyId" : "83ebfa83c40f986455c18e7662dea8b0",
+  "time" : {
+    "start" : 1667579542705,
+    "stop" : 1667579550438,
+    "duration" : 7733
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginByMainPageWithHeaderButton"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-k.krashenitsa"
+  }, {
+    "name" : "thread",
+    "value" : "31845@macbook-k.krashenitsa.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "644dcea64fd17308.json",
+  "parameterValues" : [ ]
+}

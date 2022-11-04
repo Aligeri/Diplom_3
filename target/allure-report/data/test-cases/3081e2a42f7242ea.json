@@ -1,0 +1,56 @@
+{
+  "uid" : "3081e2a42f7242ea",
+  "name" : "Вход через кнопку в форме восстановления пароля",
+  "fullName" : "LoginTest.loginByForgotPasswordPageWithLoginButton",
+  "historyId" : "a8894ca32679f9d701ff89352cb5c03",
+  "time" : {
+    "start" : 1667579535368,
+    "stop" : 1667579542700,
+    "duration" : 7332
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginByForgotPasswordPageWithLoginButton"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-k.krashenitsa"
+  }, {
+    "name" : "thread",
+    "value" : "31845@macbook-k.krashenitsa.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3081e2a42f7242ea.json",
+  "parameterValues" : [ ]
+}

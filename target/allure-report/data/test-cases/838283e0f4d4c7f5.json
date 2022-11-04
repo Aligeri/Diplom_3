@@ -1,0 +1,56 @@
+{
+  "uid" : "838283e0f4d4c7f5",
+  "name" : "Переход из личного кабинета в конструктор по клику на «Конструктор»",
+  "fullName" : "OpenConstructorTest.openMainPageWithConstructorButton",
+  "historyId" : "6e088d4acf5bdb1267781ce5c4e26d49",
+  "time" : {
+    "start" : 1667579567331,
+    "stop" : 1667579576318,
+    "duration" : 8987
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "OpenConstructorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "openMainPageWithConstructorButton"
+  }, {
+    "name" : "suite",
+    "value" : "OpenConstructorTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-k.krashenitsa"
+  }, {
+    "name" : "thread",
+    "value" : "31845@macbook-k.krashenitsa.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "838283e0f4d4c7f5.json",
+  "parameterValues" : [ ]
+}
