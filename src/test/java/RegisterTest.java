@@ -70,5 +70,10 @@ public class RegisterTest {
         registerPage.setPassword(userWithInvalidPassword.getPassword());
         registerPage.clickRegisterButton();
         registerPage.compareText(REGISTRATION_INCORRECT_PASSWORD);
+        try {
+            userClient.deleteUser(userWithInvalidPassword);
+        } catch (IllegalArgumentException e) {
+            System.out.println("Такого пользователя не существует");
+        }
     }
 }
